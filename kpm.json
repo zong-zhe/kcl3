@@ -1,1 +1,12 @@
-{"package_name":".","kclvm_min_version":"v0.4.3"}
+{
+    "package_name": ".",
+    "kclvm_min_version": "v0.4.3",
+    "direct": {
+        "kcl4": {
+            "type": "git",
+            "name": "github.com/zong-zhe/kcl4",
+            "version": "v0.0.1",
+            "integrity": "sha512-pPsC4xPPWYQ6leiHvtHuYLK4vWdTLkK+n8wWkmsiSP/bCtexShFMnJnoClH4UTFbpJRePr7S4gAwcEF1znbkjg=="
+        }
+    }
+}
