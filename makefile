@@ -1,5 +1,6 @@
 add:
-	kpm add -git github.com/zong-zhe/kcl4
+	https://github.com/zong-zhe/kcl4.git
+	
 clean:
 	rm -rf external
 
